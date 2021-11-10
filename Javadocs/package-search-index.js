@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"BasicBinaryTree"},{"l":"Nodes.leetcode"},{"l":"Nodes.local"},{"l":"PreBuiltTrees"},{"l":"Questions"}];updateSearchResults();
