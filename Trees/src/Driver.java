@@ -21,7 +21,10 @@ public class Driver {
     private static void questionsTest() {
         //create a tree, from prebuilt tree and then pass them accordingly
         IntegerTree tree = new IntegerTree(new Integer[]{1,2,3,4,5,6,7}) ;
-        System.out.println(new MaxPathSum().solve(tree.root));
+        LeetCode257_RootToLeafPath q = new LeetCode257_RootToLeafPath() ;
+        for(String str:q.solve(tree.root)){
+            System.out.println(str);
+        }
     }
 
     /**
