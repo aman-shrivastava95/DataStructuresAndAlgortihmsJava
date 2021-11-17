@@ -14,7 +14,7 @@ public class LeetCode257_RootToLeafPath {
     }
 
     private void util(IntNode node, String curr, List<String> res) {
-        //if we are at the leaf, no need to go further
+        //if we are at the leaf,don't go further down
         if(node.left == null && node.right == null){
             res.add(curr) ;
             return;
