@@ -1,5 +1,6 @@
 package nodes;
 
+//node for a Trie, this can vary depending on the use case, no fixed schema for this
 public class TrieNode {
     public char ch ;
     public boolean endsHere;
