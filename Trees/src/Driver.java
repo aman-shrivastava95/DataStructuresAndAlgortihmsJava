@@ -16,7 +16,7 @@ public class Driver {
 
 
     /**
-     * method to run solutions for leetcode problems
+     * method to run solutions for implemented leetcode problems
      */
     private static void questionsTest() {
         //create a tree, from prebuilt tree and then pass them accordingly
