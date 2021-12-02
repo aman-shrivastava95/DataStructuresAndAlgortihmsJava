@@ -28,7 +28,7 @@ public class Driver {
     }
 
     /**
-     * method to run basic implementations data structure and alogrithms
+     * method to run basic implementations of data structure and alogrithms
      */
     private static void basicBinaryTreeTests() {
         //good way of creating a tree for testing, if we want a complete tree, for custom tree,with custom tree structure, we need to create manually
