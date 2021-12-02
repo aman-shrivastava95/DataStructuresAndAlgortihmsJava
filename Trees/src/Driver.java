@@ -8,7 +8,7 @@ import Questions.* ;
  */
 public class Driver {
     public static void main(String[] args) {
-        //we can have all the tests here categorized  as different methods
+        //we can have all the tests here categorized as different methods
         //basicBinaryTreeTests() ;
         questionsTest() ;
         //basicBinaryTreeTests();
