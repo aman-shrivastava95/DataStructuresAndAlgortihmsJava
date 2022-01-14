@@ -8,7 +8,7 @@ import Questions.* ;
  */
 public class Driver {
     public static void main(String[] args) {
-        //we can have all the tests here categorized  as different methods
+        //we can have all the tests here categorized as different methods
         //basicBinaryTreeTests() ;
         questionsTest() ;
         //basicBinaryTreeTests();
@@ -16,7 +16,7 @@ public class Driver {
 
 
     /**
-     * method to run solutions for leetcode problems
+     * method to run solutions for implemented leetcode problems
      */
     private static void questionsTest() {
         //create a tree, from prebuilt tree and then pass them accordingly
@@ -28,7 +28,7 @@ public class Driver {
     }
 
     /**
-     * method to run basic implementations data structure and alogrithms
+     * method to run basic implementations of data structure and alogrithms
      */
     private static void basicBinaryTreeTests() {
         //good way of creating a tree for testing, if we want a complete tree, for custom tree,with custom tree structure, we need to create manually
