@@ -47,14 +47,35 @@ public class NinjaTraining {
             for(int last=0;last< 4;last++){
                 dp[day][last] =  0 ;
                 for(int task=0;task<3;task++){
-                    int point = points[day][task] + dp[day-1][task] ;
-                    dp[day][last] =Math.max(dp[day][last],point) ;
+                    if(task!=last)
+                        dp[day][last] =Math.max(dp[day][last],points[day][task] + dp[day-1][task]) ;
                 }
             }
         }
         return dp[n-1][3] ;
     }
     //TODO: space optimized version
+    public int ninjaTrainingBottomUpSpaceOptimized(int n, int[][] points){
+        int[] prev = new int[4] ;//dp is of [day][last]
+        //base case,fillig the first row of the dp table
+        prev[0] = Math.max(points[0][1],points[0][2]) ;
+        prev[1] = Math.max(points[0][0],points[0][2]) ;
+        prev[2] = Math.max(points[0][0],points[0][1]) ;
+        prev[3] = Math.max(points[0][0],Math.max(points[0][1],points[0][2])) ;
+
+        for(int day=1 ;day<n; day++){
+            int[] temp =  new int[4] ;
+            for(int last=0;last< 4;last++){
+                temp[last] =  0 ;
+                for(int task=0;task<3;task++){
+                    if(task!=last)
+                        temp[last] =Math.max(prev[last],points[day][task] + prev[task]) ;
+                }
+            }
+            prev = temp ;
+        }
+        return prev[3] ;
+    }
 }
 
 
