@@ -21,7 +21,6 @@ public class Trie {
         curr.endsHere = true ;
         curr.endCount++ ;
     }
-
     public int search(String word) {
         TrieNode res  = hasPrefix(word) ;
         if(res==null) return 0 ;
