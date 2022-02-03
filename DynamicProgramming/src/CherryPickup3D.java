@@ -64,7 +64,7 @@ public class CherryPickup3D {
             }
         }
         //fill the remaining cells in dp array
-        for(int i=R-1; i>=0;i--){
+        for(int i=R-2; i>=0;i--){
             for(int j1=0; j1<C; j1++){
                 for(int j2 = 0; j2<C; j2++){
                     //just change the recuursion bits and you wll get the bottom up tabulation
