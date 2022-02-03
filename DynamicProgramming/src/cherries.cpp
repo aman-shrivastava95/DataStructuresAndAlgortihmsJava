@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std ;
 
-//simple recursive implementatoin.
+//simple recursive implementation.
 int cherries(int i, int j1, int j2, int r, int c, vector<vector<int>> &grid){
     if(j1 <0 || j2 < 0 || j1 > c-1 || j2 > c-1)
         return -1e9 ;
@@ -9,7 +9,7 @@ int cherries(int i, int j1, int j2, int r, int c, vector<vector<int>> &grid){
         if(j1==j2) return grid[i][j1] ;
         else return grid[i][j1] + grid[i][j2] ;
     }
-    //explore all the possiblites
+    //explore all the possibilities
     int maxi = -1e9 ;
     for(int dj1=-1;dj1<=1;dj1++){
         for(int dj2=-1;dj2<=1;dj2++){
