@@ -4,7 +4,6 @@
 //find the maximum number of cherries they can collect together.
 
 import java.util.Arrays;
-import java.util.Vector;
 
 //OBSERVATIONS
 //they will reach the last row simultaneously
