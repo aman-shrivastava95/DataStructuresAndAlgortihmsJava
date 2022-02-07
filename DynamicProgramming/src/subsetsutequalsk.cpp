@@ -25,7 +25,7 @@ bool subsetSumToK(int n, int k, vector<int> &arr){
 
 //tabulation
 bool subsetSumK(int n, int k, vector<int> &arr){
-    vector<vector<bool>> dp(n, vector<bool>(k+1,-1)) ;
+    vector<vector<bool>> dp(n, vector<bool>(k+1,0)) ;
     //base case
     for(int i=0;i<n;i++){
         dp[i][0] = true ;
