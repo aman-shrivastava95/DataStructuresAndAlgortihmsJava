@@ -1,6 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std ;
 
+//this base cases work only when in the nums array nums[i]> 0, for nums[i]>=0 see the the modified base case below.in fModified()
 int f(int ind, int sum, vector<int> &nums,vector<vector<int>> &dp){
     if(sum==0) return 1 ;
     if(ind==0) return nums[0] == sum ;
@@ -62,4 +63,27 @@ int countSubsetsWithSumKTabSO(vector<int> &nums, int k){
         }
     }
     return prev[k] ;   
+}
+int fModified(int ind, int sum, vector<int> &nums,vector<vector<int>> &dp){
+    if(ind==0){
+        if(sum==0 && nums[0]==0) return 2 ;//I have two options , either to take it or not take it,, as 0 will not affect the sum
+        if(sum==0 || sum==nums[0]) return 1 ;
+        return 0 ;
+    }
+
+    if(dp[ind][sum]!=-1) return dp[ind][sum] ;
+   
+    int not_take = f(ind-1,sum,nums,dp) ;
+    int take = 0 ;
+    if(nums[ind]<=sum) take = f(ind-1, sum-nums[ind],nums,dp) ;
+    
+    return dp[ind][sum] = take + not_take ;
+}
+//memoization
+int countSubsetWithSumK(vector<int> &nums,int k){
+    int n =  nums.size()  ;
+    vector<vector<int>> dp(n,vector<int>(k+1,-1)) ;
+
+    f(n-1, k, nums, dp) ;
+
 }
