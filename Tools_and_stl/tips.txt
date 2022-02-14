@@ -1,0 +1,5 @@
+//auto x and auto &x and auto const &x, when working with loops
+
+Choose auto x when you want to work with copies.
+Choose auto &x when you want to work with original items and may modify them.
+Choose auto const &x when you want to work with original items and will not modify them
