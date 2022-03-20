@@ -9,22 +9,45 @@
 #define alla(n) a,a + n
 using namespace std ;
 
+void solve(int k){
+    cout<<"solving for k: "<<k<<endl ;
+    for(int i=0;i<k;i++){
+        cout<<(i+1)*k<<" " ;
+    }
+    cout<<endl;
+}
+
+//code for monotonic stack , next greater element.
+vector<int> nextGreaterElement(vector<int> &nums){
+    int n  = nums.size();
+    vector<int> nge(n,0) ;
+    stack<int> st ;
+    for(int i=0;i<n;i++){
+        while(!st.empty() && nums[st.top()] < nums[i]){
+            nge[st.top()] = nums[i] ;
+            st.pop() ;
+        }
+        st.push(i) ;
+    } 
+    return nge ;
+}
 //this is awesome
 int main(int argc, char const *argv[])
 {
-    
+    //this basic structre is what is required for most of the time while dealing with competatitve code   
     #ifndef ONLINE_JUDGE
     freopen("input.txt","r",stdin) ;
     freopen("output.txt","w",stdout) ;
     #endif
     ios_base::sync_with_stdio(false) ;
-    cin.tie(NULL) ; cout.tie(NULL) ;
-
-    pair<int, int> P = mp(1,2) ;
-    cout<<P.first<< " "<<P.second ;
-    vector<int> v ;
-    v.pb(79) ;
-    v.pb(89) ;
-    cout<<len(v) ;
+    cin.tie(NULL) ; cout.tie(NULL) ; 
+    int t ;
+    cin>>t ;
+    while(t--){
+        int k ;
+        cin>>k ;
+        solve(k) ;
+    }
 
 }
+ 
