@@ -8,7 +8,7 @@
 #define all(v) v.begin(),v.end() 
 #define alla(n) a,a + n
 using namespace std ;
-
+//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
 void solve(int k){
     cout<<"solving for k: "<<k<<endl ;
     for(int i=0;i<k;i++){
