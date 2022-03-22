@@ -38,7 +38,7 @@ int main(int argc, char const *argv[])
 {
     // int arr[] = {1,4,3,7,8,9,10} ;
     // int n = sizeof(arr)/sizeof(arr[0]) ;
-    // build_maxHeap(arr, n) ;
+    // build_maxHeap(arr, n),heap sort has build maxheap ;
 
     // cout<<"max heap of the given array:"<<endl ;
     int arr[] = {64, 34, 25, 12, 22, 11, 90};
