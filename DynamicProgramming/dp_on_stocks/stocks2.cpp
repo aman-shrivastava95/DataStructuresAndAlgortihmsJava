@@ -18,7 +18,7 @@ long f(int ind, int buy,long * values,int n,vector<vector<long>> &dp){
     }
     return dp[ind][buy] = profit ;
 }
-//memoization.
+//memoization.–
 int getMaxProfit(long *values,int n){
     vector<vector<long>> dp(n,vector<long>(2,-1)) ;
     return f(0,1,values,n,dp) ;
