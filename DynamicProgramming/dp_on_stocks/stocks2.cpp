@@ -74,7 +74,7 @@ int getMaxProfitSpaceOptimised(long* values, int n){
     return ahead[1] ;
 }
 
-//wrtiting with varialbes and not arrays or vectors,just a minor change.
+//wrtiting with varialbes and not arrays or vectors
 long getMaxProfitVar(long *values, int n){
     long aheadNotBuy, aheadBuy, curBuy, curNotbuy ;
     aheadBuy = aheadNotBuy = 0 ;
