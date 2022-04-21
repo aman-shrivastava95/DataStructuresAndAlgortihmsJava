@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std ;
 
-int countList(vector<int> &arr){
+int countLis(vector<int> &arr){
     int n =  arr.size() ;
     vector<int> lis(n,1) ;
     vector<int> count(n,1) ;
