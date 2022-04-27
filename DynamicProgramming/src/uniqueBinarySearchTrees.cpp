@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std ;
-
+//find all the structurally unique BSTs
 struct TreeNode {
      int val;
      TreeNode *left;
