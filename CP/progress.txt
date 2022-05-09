@@ -4,12 +4,12 @@
 
 https://codeforces.com/problemset/problem/282/A        (DONE a1.cpp)       //simple implementation
 https://codeforces.com/contest/514/problem/A           (DONE a2.cpp)       //it's better to use string sometimes.
-https://codeforces.com/problemset/problem/263/A
-https://codeforces.com/problemset/problem/151/A
-https://codeforces.com/problemset/problem/723/A
-https://codeforces.com/problemset/problem/1352/A
-https://codeforces.com/problemset/problem/510/A
-https://codeforces.com/problemset/problem/785/A
+https://codeforces.com/problemset/problem/263/A        (DONE a3.app)       //simple row col logic
+https://codeforces.com/problemset/problem/151/A        (DONE 151a.cpp)     //simple calculation logic
+https://codeforces.com/problemset/problem/723/A        (DONE 723a.cpp)      //distance betwwen max and min.
+https://codeforces.com/problemset/problem/1352/A       (DONE 1352a.cpp)    //remainder logic.
+https://codeforces.com/problemset/problem/510/A        (DONE 510a.cpp)     //pattern printing
+https://codeforces.com/problemset/problem/785/A        (DONE 785a.cpp)     //if conditions 
 https://codeforces.com/problemset/problem/144/A
 https://codeforces.com/problemset/problem/1030/A
 https://codeforces.com/problemset/problem/136/A
@@ -119,7 +119,7 @@ https://codeforces.com/contest/287/problem/B
 https://codeforces.com/problemset/problem/1613/C 
 Med:
 
-https://codeforces.com/contest/689 /problem/C 
+https://codeforces.com/contest/689/problem/C 
 https://codeforces.com/contest/1169/problem/C 
 https://codeforces.com/contest/1073/problem/C 
 https://codeforces.com/contest/448/problem/D 
@@ -434,7 +434,7 @@ https://codeforces.com/contest/438/problem/D?locale=en
 https://codeforces.com/contest/1556/problem/E
 https://codeforces.com/contest/1567/problem/E
 
-/Lazy propagation:
+//Lazy propagation:
 https://codeforces.com/contest/52/problem/C
 https://codeforces.com/contest/1023/problem/D
 https://codeforces.com/contest/242/problem/E
