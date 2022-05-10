@@ -10,9 +10,9 @@ https://codeforces.com/problemset/problem/723/A        (DONE 723a.cpp)      //di
 https://codeforces.com/problemset/problem/1352/A       (DONE 1352a.cpp)    //remainder logic.
 https://codeforces.com/problemset/problem/510/A        (DONE 510a.cpp)     //pattern printing
 https://codeforces.com/problemset/problem/785/A        (DONE 785a.cpp)     //if conditions 
-https://codeforces.com/problemset/problem/144/A
-https://codeforces.com/problemset/problem/1030/A
-https://codeforces.com/problemset/problem/136/A
+https://codeforces.com/problemset/problem/144/A        (DONE 144a.cpp)     //good for understanding equality.
+https://codeforces.com/problemset/problem/1030/A       (DONE 1030a.cpp)    //esay implementation
+https://codeforces.com/problemset/problem/136/A        (DONE 136a.cpp)     //reverse mapping
 https://codeforces.com/problemset/problem/110/A
 https://codeforces.com/problemset/problem/116/A
 https://codeforces.com/problemset/problem/977/A

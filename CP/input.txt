@@ -1,4 +1,2 @@
-3
-Dodecahedron
-Octahedron
-Octahedron
+2
+1 2
