@@ -18,6 +18,7 @@ public:
         vector<vector<int>> dp(n,vector<int>(n+1,-1)) ;
         return f(0,-1,nums,n,dp) ;
     }
+    //tabulation for this is more intuitive than the recursive approach.
     int lengthOfLISTab(vector<int>& nums) {
         int n = nums.size() ;
         vector<int> dp(n,1) ;//intially all wil be of length 1 ;dp[i] means, length of lis ending at i
