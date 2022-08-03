@@ -13,14 +13,14 @@ https://codeforces.com/problemset/problem/785/A        (DONE 785a.cpp)     //if 
 https://codeforces.com/problemset/problem/144/A        (DONE 144a.cpp)     //good for understanding equality.
 https://codeforces.com/problemset/problem/1030/A       (DONE 1030a.cpp)    //esay implementation
 https://codeforces.com/problemset/problem/136/A        (DONE 136a.cpp)     //reverse mapping
-https://codeforces.com/problemset/problem/110/A
-https://codeforces.com/problemset/problem/116/A
-https://codeforces.com/problemset/problem/977/A
-https://codeforces.com/problemset/problem/546/A
-https://codeforces.com/problemset/problem/791/A
-https://codeforces.com/problemset/problem/236/A
-https://codeforces.com/problemset/problem/281/A
-https://codeforces.com/problemset/problem/339/A
+https://codeforces.com/problemset/problem/110/A        (DONE 110a.cpp)
+https://codeforces.com/problemset/problem/116/A        (DONE 116a.cpp) 
+https://codeforces.com/problemset/problem/977/A        (DONE 977a.cpp) 
+https://codeforces.com/problemset/problem/546/A        (DONE 546a.cpp)
+https://codeforces.com/problemset/problem/791/A        (DONE 791a.cpp)
+https://codeforces.com/problemset/problem/236/A        (DONE 236a.cpp)
+https://codeforces.com/problemset/problem/281/A        (DONE 281a.cpp)  //use of toupper and tolower
+https://codeforces.com/problemset/problem/339/A        (DONE 339a.cpp)  //sorting
 https://codeforces.com/problemset/problem/1368/A
 https://codeforces.com/problemset/problem/702/A
 https://codeforces.com/problemset/problem/1097/A
