@@ -21,15 +21,15 @@ https://codeforces.com/problemset/problem/791/A        (DONE 791a.cpp)
 https://codeforces.com/problemset/problem/236/A        (DONE 236a.cpp)
 https://codeforces.com/problemset/problem/281/A        (DONE 281a.cpp)  //use of toupper and tolower
 https://codeforces.com/problemset/problem/339/A        (DONE 339a.cpp)  //sorting
-https://codeforces.com/problemset/problem/1368/A
-https://codeforces.com/problemset/problem/702/A
-https://codeforces.com/problemset/problem/1097/A
-https://codeforces.com/problemset/problem/492/A
-https://codeforces.com/problemset/problem/1433/A
-https://codeforces.com/problemset/problem/1303/A
-https://codeforces.com/problemset/problem/1095/A
+https://codeforces.com/problemset/problem/1368/A       (DONE 1368a.cpp) 
+https://codeforces.com/problemset/problem/702/A        (DONE 702a.cpp) //take care of max cases
+https://codeforces.com/problemset/problem/1097/A       (DONE 1097a.cpp)
+https://codeforces.com/problemset/problem/492/A        (DONE 492a.cpp)
+https://codeforces.com/problemset/problem/1433/A       (DONE 1433a.cpp)//your solutions was good, see it once
+https://codeforces.com/problemset/problem/1303/A       (DONE 1303a.cpp) //good question, do it once.
+https://codeforces.com/problemset/problem/1095/A       (DONE 1095.a cpp)
 https://codeforces.com/problemset/problem/1391/B
-https://codeforces.com/problemset/problem/118/A
+https://codeforces.com/problemset/problem/118/A        (DONE 118a.cpp)
 https://codeforces.com/problemset/problem/1300/B
 https://codeforces.com/problemset/problem/1430/C
 https://codeforces.com/contest/139/problem/A
