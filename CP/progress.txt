@@ -28,11 +28,11 @@ https://codeforces.com/problemset/problem/492/A        (DONE 492a.cpp)
 https://codeforces.com/problemset/problem/1433/A       (DONE 1433a.cpp)//your solutions was good, see it once
 https://codeforces.com/problemset/problem/1303/A       (DONE 1303a.cpp) //good question, do it once.
 https://codeforces.com/problemset/problem/1095/A       (DONE 1095.a cpp)
-https://codeforces.com/problemset/problem/1391/B
+https://codeforces.com/problemset/problem/1391/B       (DONE 1391b.cpp)
 https://codeforces.com/problemset/problem/118/A        (DONE 118a.cpp)
 https://codeforces.com/problemset/problem/1300/B
 https://codeforces.com/problemset/problem/1430/C
-https://codeforces.com/contest/139/problem/A
+https://codeforces.com/contest/139/problem/A           (DONE 139a.cpp) //submit in CF
 https://codeforces.com/problemset/problem/219/A
 https://codeforces.com/problemset/problem/1141/A
 https://codeforces.com/problemset/problem/118/B
