@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>//
+#include<iostream>//
 #define pb push_back
 #define mp make_pair
 #define MOD  100000007 
@@ -9,24 +9,24 @@
 #define alla(n) a,a + n
 using namespace std ;
 
+
 int main(int argc, char const *argv[])
 {
-    cout<<"hello world" ;
-    
     #ifndef ONLINE_JUDGE
     freopen("../input.txt","r",stdin) ;
     freopen("../output.txt","w",stdout) ;
     #endif
     ios_base::sync_with_stdio(false) ;
     cin.tie(NULL) ; cout.tie(NULL) ;
-    int n, k ;
-    cin>>n>>k ;
-    while(k--){
-        if(n%10 == 0)
-            n = n/10 ;
-        else
-            n = n-1 ;
+    int t ;
+    cin>>t ;
+    while(t--){
+        long long a, b, c, f ,s;
+        f=s=-1 ;
+        cin>>a>>b>>c ;
+        if(a<c) f=1 ;
+        if(b*a > c) s = b ;
+        cout<<f<<" "<<s<<endl ;
     }
-    cout<<n ;
-    return 0;
 }
+

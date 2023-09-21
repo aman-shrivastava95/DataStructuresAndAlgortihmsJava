@@ -34,86 +34,86 @@ https://codeforces.com/problemset/problem/1300/B       (DONE 1300b.cpp)
 https://codeforces.com/problemset/problem/1430/C       (DONE 1430c.cpp)     //very good question for observation.
 https://codeforces.com/contest/139/problem/A           (DONE 139a.cpp)      //good to underestand modulus.
 https://codeforces.com/problemset/problem/219/A        (DONE 219a.coo)      //see once the solution, explanation is mentioned there.
-https://codeforces.com/problemset/problem/1141/A
-https://codeforces.com/problemset/problem/118/B
-https://codeforces.com/problemset/problem/1373/A
-https://codeforces.com/problemset/problem/268/B
-https://codeforces.com/problemset/problem/476/A
-https://codeforces.com/problemset/problem/500/A
-https://codeforces.com/problemset/problem/131/A
-https://codeforces.com/problemset/problem/1139/B
-https://codeforces.com/problemset/problem/1199/A
-https://codeforces.com/problemset/problem/1073/A
-https://codeforces.com/problemset/problem/109/A
-https://codeforces.com/problemset/problem/1244/B
-https://codeforces.com/problemset/problem/1027/A
-https://codeforces.com/problemset/problem/1278/A
-https://codeforces.com/problemset/problem/1133/A
-https://codeforces.com/problemset/problem/507/A
-https://codeforces.com/problemset/problem/1237/A
-https://codeforces.com/problemset/problem/486/B
+https://codeforces.com/problemset/problem/1141/A       (DONE 1141a.cpp)     //good question , think mathematically
+https://codeforces.com/problemset/problem/118/B        (DONE 118b.cpp)
+https://codeforces.com/problemset/problem/1373/A       (DONE 1371a.cpp)
+https://codeforces.com/problemset/problem/268/B        (DONE 268b.cpp)      //think of mathematical representation of simulation
+https://codeforces.com/problemset/problem/476/A        (DONE 476a.cpp)      //see this question, very good
+https://codeforces.com/problemset/problem/500/A        (DONE 500a.cpp)
+https://codeforces.com/problemset/problem/131/A        (DONE 131a.cpp)
+https://codeforces.com/problemset/problem/1139/B       (DONE 1139b.cpp)
+https://codeforces.com/problemset/problem/1199/A       (DONE 1199a.cpp)
+https://codeforces.com/problemset/problem/1073/A       (DONE 1073a.cpp)
+https://codeforces.com/problemset/problem/109/A        (DONE 109a.cpp)  //good question, pleaes revisit
+https://codeforces.com/problemset/problem/1244/B       (DONE 1244b.cpp)
+https://codeforces.com/problemset/problem/1027/A       (DONE 1027a.cpp)
+https://codeforces.com/problemset/problem/1278/A       (DONE 1278a.cpp)
+https://codeforces.com/problemset/problem/1133/A       (DONE 1133a.cpp)
+https://codeforces.com/problemset/problem/507/A        (DONE 507a.cpp)
+https://codeforces.com/problemset/problem/1237/A       (DONE 1237a.cpp)
+https://codeforces.com/problemset/problem/486/B        (DONE 486b.cpp)   //simulation,just do what it says, implementation heavy question.
 
 --------------------------------------------------------------------------------------------------
 
 //Maths
 
-https://codeforces.com/problemset/problem/1337/A
-https://codeforces.com/problemset/problem/1389/A
-https://codeforces.com/problemset/problem/959/A
-https://codeforces.com/problemset/problem/1426/A
-https://codeforces.com/problemset/problem/1296/A
-https://codeforces.com/problemset/problem/1385/A
-https://codeforces.com/problemset/problem/1358/A
-https://codeforces.com/problemset/problem/1294/A
-https://codeforces.com/problemset/problem/1353/A
-https://codeforces.com/problemset/problem/1371/A
-https://codeforces.com/problemset/problem/1360/A
-https://codeforces.com/problemset/problem/1367/B
-https://codeforces.com/problemset/problem/1374/A
-https://codeforces.com/problemset/problem/1343/B
-https://codeforces.com/problemset/problem/732/A
-https://codeforces.com/problemset/problem/1154/A
-https://codeforces.com/problemset/problem/1409/A
-https://codeforces.com/problemset/problem/1335/A
-https://codeforces.com/problemset/problem/1328/A
-https://codeforces.com/problemset/problem/617/A
-https://codeforces.com/problemset/problem/50/A
-https://codeforces.com/problemset/problem/1117/B
-https://codeforces.com/problemset/problem/1195/A
-https://codeforces.com/problemset/problem/1181/A
-https://codeforces.com/problemset/problem/1266/B
-https://codeforces.com/problemset/problem/1107/B
-https://codeforces.com/problemset/problem/1260/A
-https://codeforces.com/problemset/problem/1266/A
-https://codeforces.com/problemset/problem/1620/B
-https://codeforces.com/problemset/problem/610/A
-https://codeforces.com/problemset/problem/69/A
-https://codeforces.com/problemset/problem/1/A
-https://codeforces.com/problemset/problem/1199/B
-https://codeforces.com/problemset/problem/1257/B
+https://codeforces.com/problemset/problem/1337/A       (DONE 1337a.cpp)
+https://codeforces.com/problemset/problem/1389/A       (DONE 1389a.cpp) //good qusestion, see once to get the logic
+https://codeforces.com/problemset/problem/959/A        (DONE 959a.cpp)  //based on even odd concept
+https://codeforces.com/problemset/problem/1426/A       (DONE 1426a.cpp)
+https://codeforces.com/problemset/problem/1296/A       (DONE 1296a.cpp)   //based on even odd concept
+https://codeforces.com/problemset/problem/1385/A       (DONE 1385a.cpp)  //good inference question.
+https://codeforces.com/problemset/problem/1358/A       (DONE 1358a.cpp)
+https://codeforces.com/problemset/problem/1294/A       (DONE 1294a.cpp)
+https://codeforces.com/problemset/problem/1353/A       (DONE 1353a.cpp)
+https://codeforces.com/problemset/problem/1371/A       (DONE 1371a.cpp)
+https://codeforces.com/problemset/problem/1360/A       (DONE 1360a.cpp)
+https://codeforces.com/problemset/problem/1367/B       (DONE 1376b.cpp)
+https://codeforces.com/problemset/problem/1374/A       (DONE 1374a.cpp)
+https://codeforces.com/problemset/problem/1343/B       (DONE 1343b.cpp)
+https://codeforces.com/problemset/problem/732/A        (DONE 723a.cpp)
+https://codeforces.com/problemset/problem/1154/A       (DONE 1154a.cpp)
+https://codeforces.com/problemset/problem/1409/A       (DONE 1409a.cpp)
+https://codeforces.com/problemset/problem/1335/A       (DONE 1335a.cpp)
+https://codeforces.com/problemset/problem/1328/A       (DONE 1328a.cpp)
+https://codeforces.com/problemset/problem/617/A        (DONE 617a.cpp)
+https://codeforces.com/problemset/problem/50/A         (DONE 50a.cpp)
+https://codeforces.com/problemset/problem/1117/B       (DONE 1117b.cpp)
+https://codeforces.com/problemset/problem/1195/A       (DONE 1195a.cpp)  //good question
+https://codeforces.com/problemset/problem/1181/A       (DONE 1181A.cpp)
+https://codeforces.com/problemset/problem/1266/B       (DONE 1266b.cpp)
+https://codeforces.com/problemset/problem/1107/B       (DONE 1107b.cpp)
+https://codeforces.com/problemset/problem/1260/A       (DONE 1260a.cpp) //good questoin, solve again
+https://codeforces.com/problemset/problem/1266/A       (DONE 1266a.cpp)
+https://codeforces.com/problemset/problem/1620/B       (DONE 1620.cpp)
+https://codeforces.com/problemset/problem/610/A        (DONE 610a.cpp)
+https://codeforces.com/problemset/problem/69/A         (DONE 69a.cpp)
+https://codeforces.com/problemset/problem/1/A          (DONE 1a.cpp)
+https://codeforces.com/problemset/problem/1199/B       (DONE 1199b.cpp)//see how to use iomanp, fixed, and setprecision
+https://codeforces.com/problemset/problem/1257/B       (DONE 1257b.cpp)
 https://codeforces.com/problemset/problem/1204/A
-https://codeforces.com/problemset/problem/515/A
-https://codeforces.com/problemset/problem/1395/A
-https://codeforces.com/problemset/problem/688/B
-https://codeforces.com/problemset/problem/1473/B
-https://codeforces.com/problemset/problem/1476/A
-https://codeforces.com/problemset/problem/1359/A
-https://codeforces.com/problemset/problem/1342/A
-https://codeforces.com/problemset/problem/1463/A
-https://codeforces.com/problemset/problem/463/B
+https://codeforces.com/problemset/problem/515/A        (DONE 515a.cpp)
+https://codeforces.com/problemset/problem/1395/A       (DONE 1395a.cpp)
+https://codeforces.com/problemset/problem/688/B        (DONE 688b.cpp)
+https://codeforces.com/problemset/problem/1473/B       (DONE 1473b.cpp)// solve again
+https://codeforces.com/problemset/problem/1476/A       (DONE 1476a.cpp)
+https://codeforces.com/problemset/problem/1359/A       (DONE 1395a.cpp) //see this question, good one
+https://codeforces.com/problemset/problem/1342/A       (DONE 1342a.cpp)
+https://codeforces.com/problemset/problem/1463/A       (DONE 1463a.cpp)//see once.
+https://codeforces.com/problemset/problem/463/B        (DONE 463b.cpp)
 https://codeforces.com/problemset/problem/1511/B
 https://codeforces.com/problemset/problem/630/C
 https://codeforces.com/problemset/problem/1189/B
 https://codeforces.com/problemset/problem/1038/B
-https://codeforces.com/problemset/problem/630/D
-https://codeforces.com/problemset/problem/1355/A
+https://codeforces.com/problemset/problem/630/D     (DONE 630d.cpp)
+https://codeforces.com/problemset/problem/1355/A    (DONE 1355a.cpp) //very good question, see once
 
 --------------------------------------------------------------------------------------------------
 
 //Binary Search
 Easy:
 
-https://codeforces.com/contest/371/problem/C
+https://codeforces.com/contest/371/problem/C    (DONE 371c.cpp)
 https://codeforces.com/contest/670/problem/D1 
 https://codeforces.com/contest/287/problem/B
 https://codeforces.com/problemset/problem/1613/C 

@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>//
+#include<iostream>//
 #define pb push_back
 #define mp make_pair
 #define MOD  100000007 
@@ -9,9 +9,9 @@
 #define alla(n) a,a + n
 using namespace std ;
 
+
 int main(int argc, char const *argv[])
 {
-    cout<<"hello world" ;
     
     #ifndef ONLINE_JUDGE
     freopen("../input.txt","r",stdin) ;
@@ -19,14 +19,13 @@ int main(int argc, char const *argv[])
     #endif
     ios_base::sync_with_stdio(false) ;
     cin.tie(NULL) ; cout.tie(NULL) ;
-    int n, k ;
-    cin>>n>>k ;
-    while(k--){
-        if(n%10 == 0)
-            n = n/10 ;
-        else
-            n = n-1 ;
+    int n ;
+    cin>>n ;
+    //simulation
+    // 1(n-1) + 2(n-2) + 3(n-3)... + n
+    int sum = n ;
+    for(int i=1;i<n;i++){
+        sum+= i *(n-i) ;
     }
-    cout<<n ;
-    return 0;
+    cout<<sum ;
 }
