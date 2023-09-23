@@ -1,4 +1,5 @@
 #include<bits/stdc++.h>
+#define pb push_back
 #define mp make_pair
 #define MOD  100000007 
 #define len(x) x.size()
@@ -19,21 +20,21 @@ int main(int argc, char const *argv[])
     ios_base::sync_with_stdio(false) ;
     cin.tie(NULL) ; cout.tie(NULL) ;
     //SOLUTION
-    //logic is that if you try to divide k into n blocks ,, they will be minimal only if they all are equal 
-    int t ;
-    cin>>t ;
-    ll n, k ;
-    while(t--){
-        cin>>n>>k ;
-        if(k < n){ //to make it a multiple of the number
-            int mul = ceil((1.0*n)/k) ;
-            k*=mul ;
+    int n ;
+    cin>>n ;
+    ll arr[n] ;
+    for(int i = 0; i< n; i++){
+        cin>>arr[i] ;
+    }
+    sort(arr, arr+n) ;
+    if(arr[n-2] + arr[n-3] <= arr[n-1])
+        cout<<"NO\n" ;
+    else{
+        cout<<"YES\n" ;
+        cout<<arr[n-1]<<" " ;
+        for(int i = n-3;  i>=0  ; i--){
+            cout<<arr[i]<<" " ;
         }
-        ll q = k/n ;
-        ll r = k%n ;
-        if(r>0)
-            q++ ;
-        cout<<q<<"\n" ;
-       
+        cout<<arr[n-2] ; 
     }
 }
