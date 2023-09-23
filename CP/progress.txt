@@ -101,8 +101,8 @@ https://codeforces.com/problemset/problem/1359/A       (DONE 1395a.cpp) //see th
 https://codeforces.com/problemset/problem/1342/A       (DONE 1342a.cpp)
 https://codeforces.com/problemset/problem/1463/A       (DONE 1463a.cpp)//see once.
 https://codeforces.com/problemset/problem/463/B        (DONE 463b.cpp)
-https://codeforces.com/problemset/problem/1511/B
-https://codeforces.com/problemset/problem/630/C
+https://codeforces.com/problemset/problem/1511/B       (DONE 1511b.cpp)//very very good question
+https://codeforces.com/problemset/problem/630/C        (DONE 630c.cpp) //long long int
 https://codeforces.com/problemset/problem/1189/B
 https://codeforces.com/problemset/problem/1038/B
 https://codeforces.com/problemset/problem/630/D     (DONE 630d.cpp)
